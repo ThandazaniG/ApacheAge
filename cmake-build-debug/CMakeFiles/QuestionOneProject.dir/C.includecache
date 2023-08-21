@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thandazanig/CLionProjects/QuestionOneProject/FibonacciSequence.cpp
+FibonacciSequence.h
+/Users/thandazanig/CLionProjects/QuestionOneProject/FibonacciSequence.h
+
+/Users/thandazanig/CLionProjects/QuestionOneProject/FibonacciSequence.h
+
+/Users/thandazanig/CLionProjects/QuestionOneProject/main.c
+stdio.h
+-
+stdlib.h
+-
+FibonacciSequence.cpp
+/Users/thandazanig/CLionProjects/QuestionOneProject/FibonacciSequence.cpp
+FibonacciSequence.h
+/Users/thandazanig/CLionProjects/QuestionOneProject/FibonacciSequence.h
+
