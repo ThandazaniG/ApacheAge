@@ -19,8 +19,7 @@ The fibonacci function is implemented using Dynamic Programming.
 ### Installing
 
 * Download cmake build files to compile the project
-* OR create a new project in CLion and add the source files
-* from gitHub
+* OR create a new project in CLion and add the source files from gitHub
 ```
 https://github.com/ThandazaniG/ApacheAge.git
 ```
