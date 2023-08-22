@@ -33,7 +33,7 @@ https://github.com/ThandazaniG/ApacheAge.git
 cmake_minimum_required(VERSION 3.17)
 project("insert projectName here" C)
 set(CMAKE_C_STANDARD 99)
-add_executable(QuestionOneProject main.c)
+add_executable("insert projectName here" main.c)
 ```
 * Run the main.c file
 
